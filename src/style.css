@@ -1,0 +1,8 @@
+li{
+    width:200px;
+    padding:10px;
+    background-color: yellow;
+    margin:5px;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
